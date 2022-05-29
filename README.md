@@ -4,7 +4,7 @@
 
 
 
-- 🤔 &nbsp; Problem Solving .
+- 🤔 &nbsp; Solving Problems and learning new stuff .
 
 - 🎓 &nbsp; Studying Computer Engineering at Cairo University.
 
