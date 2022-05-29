@@ -4,13 +4,13 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies .
+- 🤔 &nbsp; Problem Solving .
 
 - 🎓 &nbsp; Studying Computer Engineering at Cairo University.
 
-- 🌱 &nbsp; Learning about Game Development.
+- 🌱 &nbsp; Learning about Web Development.
 
-- ✍️ &nbsp; Pursuing Web Development as a hobby.
+- ✍️ &nbsp; Pursuing Competitive Programming as a hobby.
 
 
 
