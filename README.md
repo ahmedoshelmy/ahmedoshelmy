@@ -12,7 +12,14 @@
 
 - ✍️ &nbsp; Pursuing Competitive Programming as a hobby.
 
+## 💬 Connect with me:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-osama-helmy/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.osama1982002@gmail.com)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ahmed_os_helmy)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/linguini_)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/AhmedOsama198/)
+  
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -45,33 +52,6 @@
 
 
 
-<hr>
-
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
-
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ahmed-osama-helmy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmed%20Osama-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="mailto:ahmed.osama1982002@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ahmed.osama1982002@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-</p>
-
-
-
-
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=AhmedOsama198.AhmedOsama198)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
-
-
-
-<hr>
 
