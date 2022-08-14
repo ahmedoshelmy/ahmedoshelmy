@@ -44,7 +44,17 @@
 
 <hr>
 
-
+- 📖 Readings:
+        <ul>
+        <li><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458747997i/22847284.jpg" alt ="Book" width="80" height="100" align ="middle"> <a href="https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio" target ="_blank" >Grokking Algorithms</a> (by Aditya Y. Bhargava
+)
+       <li > <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347937643i/9978521.jpg" alt ="Book" width="80" height="100" align ="middle"> <a href="https://www.goodreads.com/book/show/9978521-algorithms-unplugged" target ="blank">Algorithms Unplugged </a> (by Steven Halim, Felix Halim) (Ongoing)
+              <li > <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518060342i/36881945.jpg" alt ="Book" width="80" height="100" align ="middle"> <a href="https://www.goodreads.com/book/show/36881945-guide-to-competitive-programming" target ="blank">Guide to Competitive Programming </a> (by Steven Halim, Felix Halim) (Ongoing)
+       
+      <li> <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387741681i/108986.jpg" alt ="Book" width="80" height="100" align ="middle"> <a href="https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms" target ="blank">Introduction to Algorithms </a>(by Thomas H. Cormen
+) (To Read)
+        <li> <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1308260856i/8910666.jpg" alt ="Book" width="80" height="100" align ="middle"> <a href="https://www.goodreads.com/book/show/39866497-eloquent-javascript" target ="blank">Eloquent JavaScript: A Modern Introduction to Programming </a> (To read)
+        </ul>
 
 <br/><br/>
 
