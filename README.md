@@ -14,6 +14,7 @@
 <!-- Profile Views -->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ahmedoshelmy&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedoshelmy" />
 </p>
+
 <!-- Languages and Tools -->
 <div align="center">
   <h3>Programming Languages</h3>
@@ -43,9 +44,10 @@
 
 
 <br/><br/>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahmedoshelmy&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahmedoshelmy&show_icons=true&theme=algolia&count_private=true)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedoshelmy&theme=algolia&show_icons=true&locale=en" alt="ahmedoshelmy" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ahmedoshelmy&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="ahmedoshelmy" />
+</p>
 
 
 
