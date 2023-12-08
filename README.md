@@ -1,27 +1,19 @@
-### Hi there 👋<h2> I'm Ahmed Osama Helmy</h2>
-
-<h3> 👨🏻•💻 About Me </h3>
 
 
 
-- 🤔 &nbsp; Solving Problems and learning new stuff .
+<h1 align="center">Hi 👋, I'm Ahmed Osama Helmy</h1>
+<h3 align="center">👨‍💻Backend-Engineer 👨‍🎓 Passionate Computer Engineering student </h3>
+<h3 align="center"></h3>
 
-- 🎓 &nbsp; Studying Computer Engineering at Cairo University.
-
-- 🌱 &nbsp; Learning about Web Development.
-
-- ✍️ &nbsp; Pursuing Competitive Programming as a hobby.
-
-- 💬 &nbsp; Currently Reading : Guide to Competitive Programming , ALgorithms Unplugged  
-
-##  Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-osama-helmy/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.osama1982002@gmail.com)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ahmed_os_helmy)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/linguini_)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ahmedoshelmy/)
-
+<p align="left">
+<a href="https://linkedin.com/in/ahmed-osama-helmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedoshelmy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ahmed_os_helmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmedoshelmy" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/linguini_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmedoshelmy" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ahmedoshelmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user7895i" height="30" width="40" /></a>
+</p>
+<!-- Profile Views -->
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ahmedoshelmy&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedoshelmy" />
+</p>
 ### :hammer_and_wrench: Languages and Tools :
 
 
@@ -57,8 +49,4 @@
 
 <br><br>
 
-
-
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=AhmedOsama198.AhmedOsama198)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
