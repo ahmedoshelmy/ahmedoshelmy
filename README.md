@@ -12,7 +12,8 @@
 <img align="center" height="30" src="https://user-images.githubusercontent.com/56788883/152502680-84c9341e-93cf-4ec9-98a2-e61fd8440eb1.png" draggable="false" /></a>
 </p>
 <!-- Profile Views -->
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ahmedoshelmy&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedoshelmy" />
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedOsama198.AhmedOsama198" alt="ahmedoshelmy" />
+<!--   <img src="https://komarev.com/ghpvc/?username=ahmedoshelmy&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedoshelmy" /> -->
 </p>
 
 <!-- Languages and Tools -->
@@ -48,15 +49,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedoshelmy&theme=algolia&show_icons=true&locale=en" alt="ahmedoshelmy" />
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ahmedoshelmy&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="ahmedoshelmy" />
 </p>
-
-
-
-
-<br/>
-
-<br/>
-
-
-<br><br>
-
 
