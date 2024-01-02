@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ahmed Osama Helmy</h1>
-<h3 align="center">👨‍💻Backend-Engineer 👨‍🎓 Passionate Computer Engineering student </h3>
+<h3 align="center">👨‍💻Software-Engineer 👨‍🎓 Passionate Computer Engineering student </h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/ahmed-osama-helmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedoshelmy" height="30" width="40" /></a>
