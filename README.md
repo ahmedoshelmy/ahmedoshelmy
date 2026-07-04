@@ -16,8 +16,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="28" width="36" alt="LeetCode" />
   </a>
   &nbsp;
-  <a href="https://ahmedoshelmy.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ahmedoshelmy.netlify.app-blue?style=flat&logo=netlify" alt="Portfolio" />
+  <a href="https://ahmedoshelmy.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ahmedoshelmy.me-blue?style=flat&logo=netlify" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:ahmedosamahelmy@outlook.com">
