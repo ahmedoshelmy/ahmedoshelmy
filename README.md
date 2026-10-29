@@ -40,6 +40,17 @@ Currently working at **Dell Technologies** and finishing an intensive program at
 
 ---
 
+### What I'm Building Now
+
+- **Lingo**: my personal life OS, used every day. A React web app, a Flutter Android app and a Node/Prisma API over
+  ~185 data models. It has natural-language entry over 49 record types with multi-provider LLM fallback, price
+  comparison across ~20 Egyptian shops, and offline-first sync. I build it by directing 3–4 AI coding agents in
+  parallel (~1,500 commits in Oct 2026), with CI/CD to Docker, health-checked rollbacks and written incident runbooks.
+- **egypt-price-scraper**: one query, ~20 Egyptian e-commerce sites, normalized prices. Extracted from Lingo as an
+  open-source TypeScript library and CLI. *(link once published)*
+
+---
+
 ### Tech Stack
 
 **Languages**
